@@ -16,13 +16,13 @@ React Todo App Fully Reasponsive i use  (Vite, Hooks, CSS Modules, Local Storage
 </div>
 
 <!-- Installation -->
-### :gear: Installation
+### :gear: Installation & run locally 
 
 Install my-project with npm
 
 ```bash
-  yarn install my-project
-  cd my-project
+  npm install
+  npm run dev
 ```
 ### Dependencies:
 
