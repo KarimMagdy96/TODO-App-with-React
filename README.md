@@ -19,7 +19,7 @@ React Todo App Fully Reasponsive i use  (Vite, Hooks, CSS Modules, Local Storage
 
 * HTML
 * CSS
-* Vanilla JS (ES6)
+* react
 
 #### Live Preview 
 
