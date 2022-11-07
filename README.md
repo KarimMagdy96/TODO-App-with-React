@@ -2,7 +2,7 @@
 
 
 ## Description
-React Todo App Fully Reasponsive built with REACT (Vite, Hooks, CSS Modules, Local Storage)
+React Todo App Fully Reasponsive built with (Vite, Hooks, CSS Modules, Local Storage)
 
 <!-- About the Project -->
 ## :star2: About the Project
